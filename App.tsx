@@ -84,6 +84,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#6200ea',
     justifyContent: 'center',
     alignItems: 'center',
+    fontWeight : "bold,
    
   },
   title: {
